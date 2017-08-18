@@ -1,6 +1,6 @@
 # universal-viewer
 
-[![Build Status](https://travis-ci.org/colehansen/universal-viewer.svg)](https://travis-ci.org/colehansen/universal-viewer)
+[![Build Status](https://travis-ci.org/Brown-University-Library/universal-viewer.svg)](https://travis-ci.org/Brown-University-Library/universal-viewer)
 
 A Polymer custom element component to encapsulate a universal viewer instance.
 
